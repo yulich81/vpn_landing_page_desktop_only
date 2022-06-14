@@ -9,6 +9,7 @@ This is website template for vpn landing page with HTML and CSS. Desktop view on
   - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Author](#author)
+  - [Links](#links)
 
 ## Overview
 
@@ -19,3 +20,8 @@ This is website template for vpn landing page with HTML and CSS. Desktop view on
 ## Author
 
 - Website - [Julia](https://codepen.io/yulich)
+
+## Links
+
+- Github: [click here](https://github.com/yulich81/vpn_landing_page_desktop_only)
+- Netlify: [click here](https://merry-dragon-8230ba.netlify.app/)
